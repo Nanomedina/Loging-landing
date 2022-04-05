@@ -1,0 +1,63 @@
+body{
+background-color: rgb(102, 102, 117);
+}
+
+
+article{
+    width: 400px;
+    height: 500px;
+    padding: 8% 0 0;
+    background-color: rgb(59, 60, 139);
+    margin: auto;
+    text-align: center;
+}   
+img{
+    margin-top: -50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    
+}
+
+h1{ font-size: 40px;
+    color: white;    
+}
+
+input{
+    width: 230px;
+    height: 50px;
+    
+}
+
+.INemail{
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+}
+
+.INpass{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Entrar{
+    width: 230PX;
+    height: 50px;
+    color: white;
+    background-color:rgb(120, 15, 10);
+    border-radius: 5px;
+    }
+
+.olvide{    
+    width: 150px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: white
+}
+
+.olvi{
+    color: black;
+}
